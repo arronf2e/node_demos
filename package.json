@@ -4,6 +4,7 @@
   "description": "some nodejs demo",
   "main": "index.js",
   "scripts": {
+    "sendmail": "node sendEmail/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
