@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport(config);
 transporter.sendMail(options, function(err, info) {
 	if (err) {
 		console.log(err)
-	} else {
+	} else { 
 		console.log('Sueecss', info)
 	}
 })
