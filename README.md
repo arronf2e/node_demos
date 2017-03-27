@@ -9,3 +9,5 @@
 
 	npm run sendemail
 
+#### 3. spider
+	npm run spider
