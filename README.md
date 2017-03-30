@@ -14,4 +14,8 @@
 
 	Apis:
 	首页歌单列表: http://localhost:3000/recommendLst  
-	歌单详情: http://localhost:3000/playlist/:playlistId  
+	歌单详情: http://localhost:3000/playlist/:playlistId 
+
+	测试地址： 
+	首页歌单列表: http://115.159.146.216:3000/recommendLst 
+	歌单详情: http://115.159.146.216:3000/playlist/644209947
