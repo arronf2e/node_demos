@@ -1,13 +1,17 @@
 ### Some nodejs demo here!
 
-#### 1. first 
+#### 1. 发送邮件
 
-	npm i
+		cd sendEmail
+		npm i 
+		node index.js
 
+#### 2. 网易云音乐简单爬虫并建了API
 
-#### 2. send email
+		cd neteaseMusic
+		npm i
+		node index.js
 
-	npm run sendemail
-
-#### 3. spider
-	npm run spider
+		Apis:
+		首页歌单列表: http://localhost:3000/recommendLst  
+		歌单详情: http://localhost:3000/playlist/:playlistId  
