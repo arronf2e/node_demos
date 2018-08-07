@@ -33,3 +33,5 @@ node index.js
 ```
 
 #### 4. ali-oss 上传文件
+
+[https://github.com/arronf2e/node_demos/blob/master/upload-oss.js](https://github.com/arronf2e/node_demos/blob/master/upload-oss.js)
