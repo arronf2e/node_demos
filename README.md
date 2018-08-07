@@ -31,3 +31,5 @@ cd lagoudakun_spider
 npm i
 node index.js
 ```
+
+#### 4. ali-oss 上传图片
