@@ -32,4 +32,4 @@ npm i
 node index.js
 ```
 
-#### 4. ali-oss 上传图片
+#### 4. ali-oss 上传文件
